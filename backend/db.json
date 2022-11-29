@@ -1,8 +1,8 @@
 {
   "shop": [
     {
-      "ShopName": "emporium Grocery",
-      "Avatar": "https://imageio.forbes.com/specials-images/imageserve/5f8ceed2e11880c542eca6b1/0x0.jpg?format=jpg&width=1200",
+      "ShopName": "emporium shopee",
+      "Avatar": "https://media.istockphoto.com/id/1174988794/photo/a-retail-grocery-shop-owner-looking-for-customer-from-inside-his-store-kolkata-west-bengal.jpg?s=1024x1024&w=is&k=20&c=rtHAUefZkMxBUpCv9IlWE4F-yIAP09_2qShzyDQlB2E=",
       "Area": "pune",
       "Category": "Grocery",
       "openingDate": "10Am",
@@ -10,12 +10,12 @@
       "id": 1
     },
     {
-      "ShopName": "jasmin Grocery shop",
-      "Avatar": "https://allresultbd.com/wp-content/uploads/2020/11/Grocery-Shop.jpg",
-      "Area": "Thane",
+      "ShopName": "Grocery shop",
+      "Avatar": "https://content3.jdmagicbox.com/comp/cuttack/v2/0671px671.x671.161118163709.w2v2/catalogue/tapan-grocery-shop-college-square-cuttack-grocery-stores-42rgeik.jpg",
+      "Area": "solapur",
       "Category": "Grocery",
       "openingDate": "10Am",
-      "closingDate": "7pm",
+      "closingDate": "9pm",
       "id": 2
     },
     {
@@ -26,15 +26,6 @@
       "openingDate": "10Am",
       "closingDate": "9pm",
       "id": 3
-    },
-    {
-      "ShopName": "easy Stationary shop",
-      "Avatar": "https://res.cloudinary.com/purnesh/image/upload/w_1080,f_auto/untitled-11609321216478.jpg",
-      "Area": "Solapur",
-      "Category": "Stationary",
-      "openingDate": "10Am",
-      "closingDate": "9pm",
-      "id": 4
     },
     {
       "ShopName": "The Stationary Day",
@@ -55,17 +46,7 @@
       "id": 6
     },
     {
-      "ShopName": "apolo medical store",
-      "Avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDBxFIixqt6o63puZQBw6WWMW1eAJvYvfo5g&usqp=CAU",
-      "Area": "Thane",
-      "Category": "Chemist",
-      "openingDate": "10Am",
-      "closingDate": "9pm",
-      "id": 7
-    },
-
-    {
-      "ShopName": "drugs&chemist medical store",
+      "ShopName": "drugs&chemist  store",
       "Avatar": "https://thumbs.dreamstime.com/z/mixed-race-happy-pharmacist-medical-shop-portrait-african-american-pharmacist-working-modern-pharmacy-wearing-labcoat-186180496.jpg",
       "Area": "Nagpur",
       "Category": "Chemist",
@@ -73,7 +54,7 @@
       "closingDate": "9pm",
       "id": 8
     },
-     {
+    {
       "ShopName": "drugs&chemist medical store",
       "Avatar": "https://c8.alamy.com/comp/2J33MCK/customer-paying-by-scanning-qr-code-at-medical-shop-of-purchase-concept-of-cashless-or-contactless-transaction-technology-and-secure-payment-system-2J33MCK.jpg",
       "Area": "Solapur",
@@ -82,21 +63,19 @@
       "closingDate": "9pm",
       "id": 9
     },
-
     {
       "ShopName": "Butcher store",
       "Avatar": "https://media.restless.co.uk/uploads/2020/01/how-to-become-a-butcher.jpeg",
-      "Area": "Ahmednagar",
+      "Area": "Thane",
       "Category": "Butcher",
       "openingDate": "10Am",
       "closingDate": "9pm",
       "id": 10
     },
-
     {
       "ShopName": "healthy Butcher store",
       "Avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMDBjkFKikxnZ0DKBL9VB6CojOmLehO288QI0s5n8l2tzQPqyoOg2JHaouHfJI-dtk1VQ&usqp=CAU",
-      "Area": "Ahmednagar",
+      "Area": "Thane",
       "Category": "Butcher",
       "openingDate": "10Am",
       "closingDate": "9pm",
@@ -111,17 +90,6 @@
       "closingDate": "9pm",
       "id": 12
     },
-
-    {
-      "ShopName": "baking store",
-      "Avatar": "https://previews.123rf.com/images/drx/drx0902/drx090200703/4415072-various-bread-type-on-shelf-bakery-shop-concept.jpg",
-      "Area": "Ahmednagar",
-      "Category": "Baker",
-      "openingDate": "10Am",
-      "closingDate": "9pm",
-      "id": 13
-    },
-
     {
       "ShopName": "Cake store",
       "Avatar": "https://media.gettyimages.com/id/1317782863/photo/bakery-owner-giving-food-package-to-customer.jpg?s=612x612&w=gi&k=20&c=kq51-N7etobls-RvdCHBL2Wm3uWU1OPNFAmgb4j5MEg=",
@@ -131,7 +99,6 @@
       "closingDate": "9pm",
       "id": 14
     },
-
     {
       "ShopName": "Bakery store",
       "Avatar": "https://thumbs.dreamstime.com/z/sweets-cakes-display-bakery-shop-193256520.jpg",
@@ -141,9 +108,5 @@
       "closingDate": "9pm",
       "id": 15
     }
-
-
-    
-
   ]
 }

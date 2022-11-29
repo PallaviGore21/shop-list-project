@@ -162,18 +162,3 @@ export default Addshop;
 
 
 
-{/* <Form.Group className="mb-3" controlId="formBasicLname">
-                    <Form.Label>Area</Form.Label>
-                    <Form.Control
-                        onBlur={formik.handleBlur}
-                        isValid={formik.touched.Area && !formik.errors.Area}
-                        isInvalid={formik.touched.Area && formik.errors.Area}
-                        type="area"
-                        name="Area"
-                        placeholder="enter Area"
-                        value={formik.values.Area}
-                        onChange={formik.handleChange}/>
-                    <Form.Text className="invalid feedback">
-                        {formik.errors.Area}
-                    </Form.Text>
-                </Form.Group> */}

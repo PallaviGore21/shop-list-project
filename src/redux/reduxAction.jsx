@@ -19,6 +19,24 @@ export const GetShopsAction = createAsyncThunk("shop/get", async shopData => {
     }
 })
 
+export const DeleteshopAction = createAsyncThunk("shop/Delete", async ShopId => {
+    try {
+        const { data } = await axios.delete(`http://localhost:5000/shop/${ShopId}`)
+        return data
+    } catch (error) {
+        return error.message
+    }
+})
+
+export const UpdateshopAction = createAsyncThunk("shop/update", async allData => {
+    try {
+        const { data } = await axios.put(`http://localhost:5000/shop/${allData.id}`, allData)
+        return data
+    } catch (error) {
+        return error.message
+    }
+})
+
 
 
 export default addShopsAction
